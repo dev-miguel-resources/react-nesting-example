@@ -1,5 +1,12 @@
 import Greetings from "./Greetings";
 
+/*const object = {
+  name: "Julio",
+  lastname: "Videla",
+};
+
+console.log(object);*/
+
 function App() {
   return (
     <>

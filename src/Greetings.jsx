@@ -1,9 +1,11 @@
-// rafce
-// shift + alt + f
-import React from "react";
-
 const Greetings = () => {
-  return <div>Hello am Greetings!</div>;
+  return (
+    <ul>
+      <li>Hello</li>
+      <li>my</li>
+      <li>students</li>
+    </ul>
+  );
 };
 
 export default Greetings;
